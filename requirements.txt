@@ -1,0 +1,11 @@
+Flask
+streamlit
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+nltk
+fuzzywuzzy
+scipy
+requests

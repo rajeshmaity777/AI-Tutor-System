@@ -1,1 +1,3 @@
-
+Extract this file for 
+1. model.pkl 
+2. promotion.pkl
